@@ -1,11 +1,5 @@
 # 🚀 Интернет-магазин на Django 🛒
 
-<div style="width: 100%; background-color: #f3f3f3; border: 1px solid #dcdcdc; border-radius: 5px; overflow: hidden;">
-  <div style="width: 63%; background-color: #76c7c0; padding: 10px 0; color: white; text-align: center; font-weight: bold;">
-    63%
-  </div>
-</div>
-
 ### Статус проекта
 Проект в разработке. Готово: **63%**
 
