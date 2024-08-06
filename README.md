@@ -1,10 +1,17 @@
 # 🚀 Интернет-магазин на Django 🛒
 
-<div style="width: 100%; background-color: #ddd;">
-  <div style="width: 63%; background-color: #4caf50; padding: 5px; color: white; text-align: center;">
+<div style="width: 100%; background-color: #ddd; border-radius: 5px; overflow: hidden;">
+  <div style="width: 0%; background-color: #4caf50; padding: 5px 0; color: white; text-align: center; animation: load 2s forwards;">
     63%
   </div>
 </div>
+
+<style>
+@keyframes load {
+  from { width: 0%; }
+  to { width: 63%; }
+}
+</style>
 
 ### Статус проекта
 Проект в разработке. Готово: **63%**
