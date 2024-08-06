@@ -1,6 +1,7 @@
 # 🚀 Интернет-магазин на Django 🛒
 
-![Progress](https://progress-bar.dev/63/?width=400&color=4caf50)
+![Прогресс](https://progress-bar.dev/63/?width=400&color=4caf50)
+
 
 ### Статус проекта
 
