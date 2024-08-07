@@ -19,3 +19,7 @@
 - **База данных:** PostgreSQL
 
 
+check commited changes
+```bash 
+git status
+```
