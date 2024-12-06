@@ -15,6 +15,11 @@
                         {% include "carts/includes/includes_cart.html" %}
 
                     </div>
+                    {% if carts %}
+                        <a class="btn btn-dark" href="{% url 'orders:create_order' %}">
+                            Оформить заказ
+                        </a>
+                    {% endif %}
                 </div>
             </div>
         </div>
